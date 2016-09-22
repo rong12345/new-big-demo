@@ -16,13 +16,13 @@ class BlogCard extends React.Component {
         height:'80px',
         textAlign:'center',
         borderRadius: '10px 10px 0 0',
-        paddingTop:'10px'
+        paddingTop:'15px'
       },
       num:{
-        lineHeight:'60px',
-        width:'60px',
-        height:'60px',
-        borderRadius:'50%',
+        lineHeight:'50px',
+        width:'50px',
+        height:'50px',
+        borderRadius:'50px',
         border: '2px solid #fff',
         display:'block',
         fontSize:'20px',
