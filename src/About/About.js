@@ -4,7 +4,7 @@ class About extends React.Component {
   render () {
     return(
       <div>
-        <div className="about-pic"></div>
+        个人信息
       </div>
     )
   }
