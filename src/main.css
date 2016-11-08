@@ -89,6 +89,13 @@ a:hover,a:focus,a:active,a:visited{
   width: 100%;
   display: flex;
 }
+.about-container{
+  background-image: url(./images/home-bg.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  display: flex;
+}
 .home-cover{
   width: 100%;
   background-color: rgba(0, 0, 0, 0.7);
